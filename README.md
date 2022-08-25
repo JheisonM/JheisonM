@@ -10,9 +10,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=JheisonM&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
-
 <br/>
-
 
 <p align="center">
   <a href="https://github.com/JheisonM?tab=repositories&sort=stargazers">
@@ -33,24 +31,6 @@
 	<a href="mailto:jheison.mb@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-</p>
-
-
-
-
-
-## 🔥 Github stats
-
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=JheisonM&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JheisonM&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  
-  <br/>
-  <br/>
-  
-  <img alt="JheisonM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JheisonM&bg_color=161D27&color=FFFFFF&line=3498DB&point=E18335&hide_border=true&radius=16" />
 </p>
 
 
@@ -82,5 +62,22 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
+
+
+## 🔥 Github stats
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=JheisonM&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JheisonM&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  
+  <br/>
+  <br/>
+  
+  <img alt="JheisonM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JheisonM&bg_color=161D27&color=FFFFFF&line=3498DB&point=E18335&hide_border=true&radius=16" />
+</p>
+
+
+
 
 
