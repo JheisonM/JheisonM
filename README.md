@@ -1,16 +1,14 @@
 
-<h3 align="center">
+<h2 align="center">
   Hi there, I'm Jheison!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics%20Engineer;Mobile%20Developer;Interested%20in%20AI%20and%20Computer%20Vision;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=700&height=50&color=3498DB&vCenter=true&size=24&pause=500"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics%20Engineer;Mobile%20Developer;Interested%20in%20AI%20and%20Computer%20Vision;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=700&height=40&color=3498DB&vCenter=true&size=20&pause=500"></a>
 </p>
 <p align="center">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=JheisonM&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://github.com/JheisonM?tab=repositories&sort=stargazers">
@@ -19,11 +17,6 @@
   <a href="https://github.com/JheisnoM?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/JheisonM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=JheisonM&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 <p align="center">
 	<a href="https://www.linkedin.com/in/jheison-martinez-bolivar/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -33,7 +26,12 @@
 	</a>
 </p>
 
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=JheisonM&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
+  <br/>
+  
 ## 🛠️ Tech Stack
 
 <p>
@@ -63,7 +61,8 @@
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 </p>
 
-
+  <br/>
+  
 ## 🔥 Github stats
 
 <p align="center">
@@ -71,9 +70,9 @@
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JheisonM&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   
-  <br/>
-  <br/>
+  </p>
   
+  <p align="center">
   <img alt="JheisonM's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=JheisonM&bg_color=161D27&color=FFFFFF&line=3498DB&point=E18335&hide_border=true&radius=16" />
 </p>
 
